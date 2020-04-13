@@ -1,0 +1,15 @@
+headers = {
+    "authority": "allegrolokalnie.pl",
+    "pragma": "no-cache",
+    "cache-control": "no-cache",
+    "upgrade-insecure-requests": "1",
+    "dnt": "1",
+    "user-agent": "Allegro Lokalnie API",
+    "sec-fetch-dest": "document",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "referer": "https://allegrolokalnie.pl/konto/oferty/sprzedane?page=2",
+    "accept-language": "pl,en-US;q=0.9,en;q=0.8",
+}
